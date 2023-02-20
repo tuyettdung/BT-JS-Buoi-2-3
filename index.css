@@ -1,0 +1,19 @@
+.nav-pills .nav-link {
+    width: max-content;
+    font-size: 16px;
+    padding: 8px 30px;
+}
+
+@media screen and (max-width: 598px) {
+    .nav-link {
+        font-size: 12px;
+    }
+    h3 {
+        font-size: 14px;
+
+    }
+    div,p {
+        font-size: 12px;
+    }
+}
+
